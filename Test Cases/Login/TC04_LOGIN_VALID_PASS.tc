@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_LOGIN_VALID_PASS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b64c37b1-0207-4c33-8a56-940b8e52f501</testCaseGuid>
+</TestCaseEntity>

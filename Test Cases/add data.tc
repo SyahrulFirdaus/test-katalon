@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17e990d7-08a3-410b-ae2f-998b5a45fe7c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1265810e-e2d2-4961-bb52-a74191c914d7</id>
+      <masked>false</masked>
+      <name>nama</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>43722fb1-c4f4-4fda-9ad7-c129f61cc727</id>
+      <masked>false</masked>
+      <name>usia</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b6afd06-a925-4806-9670-2146f022fb15</id>
+      <masked>false</masked>
+      <name>jurusan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf90a393-d8c1-410a-bbd8-92e983cea6d6</id>
+      <masked>false</masked>
+      <name>fakultas</name>
+   </variable>
+</TestCaseEntity>

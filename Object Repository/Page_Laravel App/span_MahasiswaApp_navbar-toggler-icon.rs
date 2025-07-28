@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MahasiswaApp_navbar-toggler-icon</name>
+   <tag></tag>
+   <elementGuidId>7a892285-f03e-4f04-99df-158fa0f53f0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.navbar-toggler-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20cbed52-3a85-4d6a-b6a7-f75d8b745f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-toggler-icon</value>
+      <webElementGuid>b5ff6817-7614-4f44-a3f3-507b69ec6e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/nav[@class=&quot;navbar navbar-expand-lg navbar-dark bg-dark mb-4&quot;]/div[@class=&quot;container&quot;]/button[@class=&quot;navbar-toggler&quot;]/span[@class=&quot;navbar-toggler-icon&quot;]</value>
+      <webElementGuid>2c2bfbfb-eebe-4187-ad23-21e6710cd480</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>df40d05c-33ea-4abf-93ac-d411a74196df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
